@@ -5,24 +5,7 @@
 
 
 body {
-<<<<<<< HEAD
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: white;
-    color: black;
-}
-
-.container {
-    display: flex;
-    flex-direction: column;
-}
-
-.header {
-    display: flex;
-    flex-direction: row;
-    padding: 16px;
-=======
     font-family: Roboto-Bold, sans-serif;
->>>>>>> refs/remotes/origin/main
     background-color: #1f2937;
     color: #F9FAF8;
     font-size: 24px;
